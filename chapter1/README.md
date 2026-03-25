@@ -6,7 +6,7 @@ Welcome! This is the course repository for the basic Python programming course.
 
 | Chapter | Topic | Notes | Colab |
 |---------|-------|-------|-------|
-| [Chapter 1](./chapter1/) | Variables & Data Types | [PDF](./chapter1/chapter1_notes_en.pdf) | [Open](./chapter1/chapter1_core.ipynb) |
+| [Chapter 1](./chapter1/) | Variables & Data Types | [PDF]([./chapter1/chapter1_notes_en.pdf](https://github.com/Ghayekhloo/python-course-basic/blob/fcb356265195a78ce9176aafcbe873718badd6d0/chapter1/Python_Chapter_One.pdf)) | [Open](./chapter1/chapter1_core.ipynb) |
 
 ## How to use this course
 1. Download the PDF notes.
