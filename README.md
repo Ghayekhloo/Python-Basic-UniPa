@@ -7,7 +7,7 @@ Welcome! This is the course repository for the basic Python programming course.
 | Chapter | Topic | Notes | Colab |
 |---------|-------|-------|-------|
 | [Chapter 1](./chapter1/) | Variables & Data Types | [📄 Download PDF](https://github.com/Ghayekhloo/python-course-basic/raw/main/chapter1/Python_Chapter_One.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghayekhloo/python-course-basic/blob/main/chapter1/chapter1_core.ipynb) |
-| [Chapter 1](./chapter1/) | Variables & Data Types | [📄 Download PDF](https://github.com/Ghayekhloo/python-course-basic/raw/main/chapter1/Python_Chapter_One.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghayekhloo/python-course-basic/blob/main/chapter1/chapter1_core.ipynb) |
+| [Chapter 2](./chapter1/) | Variables & Data Types | [📄 Download PDF](https://github.com/Ghayekhloo/python-course-basic/raw/main/chapter1/Python_Chapter_One.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghayekhloo/python-course-basic/blob/main/chapter1/chapter1_core.ipynb) |
 
 ## How to use this course
 1. Download the PDF notes.
