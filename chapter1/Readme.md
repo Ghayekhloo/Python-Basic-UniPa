@@ -1,6 +1,8 @@
 
 # Chapter 1 – Variables & Data Types
 
+| Chapter 1 | Variables, Data Types | Introduction to Python basics: how to store data using variables and work with different data types such as integers, floats, strings, and booleans. |
+
 ## Download & Open
 
 | [📄 Download PDF](https://github.com/Ghayekhloo/python-course-basic/raw/main/chapter1/Python_Chapter_One.pdf) |
